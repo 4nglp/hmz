@@ -2,7 +2,7 @@ import Link from "next/link";
 
 const About = () => {
   return (
-    <main className="py-5 pt-3">
+    <main className="py-3">
       <section className="about-section text-center">
         <h1 className="text-yellow-500 text-3xl font-bold mb-4">
           Hamizza Awards Voting Website

@@ -2,7 +2,7 @@ import React from "react";
 
 const News = () => {
   return (
-    <section className="py-5 pt-3">
+    <section className="py-3">
       <article>
         <h2 className="text-yellow-500">
           Hamizza's Bizarre Adventure: the movie
