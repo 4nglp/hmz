@@ -3,7 +3,7 @@ import React from "react";
 const FAQ = () => {
   return (
     <main className="py-3 text-center">
-      <h1 className="text-3xl font-bold mb-4">
+      <h1 className="text-3xl font-bold mb-4 text-center text-yellow-300">
         Welcome to the Frequently Asked Questions!
       </h1>
       <p className="text-lg mb-6">
