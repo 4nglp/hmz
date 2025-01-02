@@ -4,7 +4,7 @@ const News = () => {
   return (
     <section className="py-3">
       <article>
-        <h2 className="text-yellow-500">
+        <h2 className="text-yellow-500 text-center">
           Hamizza's Bizarre Adventure: the movie
         </h2>
         <p className="text-center">CUMMING SOON...!</p>
